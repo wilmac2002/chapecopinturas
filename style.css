@@ -103,3 +103,19 @@ nav
     margin-top: 7rem;
   }
 }
+
+#youtube
+{
+  width: 85%;
+  height: 300px;
+}
+
+@media screen and (min-width: 667px) {
+  #youtube
+  {
+    width: 85%;
+    height: 300px;
+  }
+  }
+
+}
